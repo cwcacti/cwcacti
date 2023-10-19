@@ -1,7 +1,7 @@
 ### Hej!
 
 * Filip heter jag, det här är min github-profil!
-* För närvarande studerar jag webbutveckling på mittuniversitetet
+* För närvarande studerar jag webbutveckling på mittuniversitetet.
 
 <!--
 **cwcacti/cwcacti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
